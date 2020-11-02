@@ -5,7 +5,7 @@ If you need to try, You need to run the server with json-server with the next se
 
 `$ json-server db.json -p 4000`
 
-#This command says: 
+# This command says: 
 - json-server: initialize the server and open the file that will work it.
 - db.json: It is the file with we will work simulating a database.
 - -p 4000: We choose the port to work with it.
