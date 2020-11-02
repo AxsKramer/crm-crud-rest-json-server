@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "name": "Roberto",
+      "email": "lopez@gmail.com",
+      "phone": "357895456",
+      "company": "Fish & Fish",
+      "id": 1
+    },
+    {
+      "name": "Carlos",
+      "email": "carlos@mail.com",
+      "phone": "456897325",
+      "company": "Jason & Maison",
+      "id": 2
+    },
+    {
+      "name": "Jaqueline",
+      "email": "jaqui@gmail.com",
+      "phone": "458796351",
+      "company": "Futuris",
+      "id": 3
+    }
+  ]
+}
